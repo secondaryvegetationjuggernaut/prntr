@@ -1,0 +1,5 @@
+---
+"prntr": patch
+---
+
+Bump dependencies
